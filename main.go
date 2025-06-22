@@ -1,6 +1,6 @@
 package main
 
-import "github.com/otaviohenrique/parquimetro/cmd"
+import "github.com/ovaladares/parquimetro/cmd"
 
 func main() {
 	cmd.Execute()

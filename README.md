@@ -1,4 +1,4 @@
-<center><img src='https://github.com/OtavioHenrique/parquimetro/assets/11178512/036dc50c-57bd-4439-855b-3c09eeba72ab' width='250'></center>
+<center><img src='https://github.com/ovaladares/parquimetro/assets/11178512/036dc50c-57bd-4439-855b-3c09eeba72ab' width='250'></center>
 
 Parquimetro
 =======
@@ -67,7 +67,7 @@ Options available:
 If you have go installed:
 
 ```
-go install github.com/otaviohenrique/parquimetro@latest
+go install github.com/ovaladares/parquimetro@latest
 ```
 
-Or if you want, you can [download the release on our releases page](https://github.com/OtavioHenrique/parquimetro/releases) and install it.
+Or if you want, you can [download the release on our releases page](https://github.com/ovaladares/parquimetro/releases) and install it.

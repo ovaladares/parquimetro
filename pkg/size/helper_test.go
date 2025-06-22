@@ -1,7 +1,7 @@
 package size_test
 
 import (
-	"github.com/otaviohenrique/parquimetro/pkg/size"
+	"github.com/ovaladares/parquimetro/pkg/size"
 	"testing"
 )
 

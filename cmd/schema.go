@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/otaviohenrique/parquimetro/pkg/reader"
+	"github.com/ovaladares/parquimetro/pkg/reader"
 	"github.com/xitongsys/parquet-go-source/local"
 	"net/url"
 	"os"
